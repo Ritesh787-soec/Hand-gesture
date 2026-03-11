@@ -76,15 +76,5 @@ Inspired by: Cyberpunk 2077, Ghost in the Shell, The Matrix
 🤝 Contributing
 Want to make this even more awesome? Contributions are welcome!
 
-Fork this repository
-Create a feature branch
-Make your epic improvements
-Submit a pull request
-Get featured as a contributor!
-Please maintain attribution to @tubakhxn as the original creator.
 
-Made with ❤️ by @tubakhxn for cyberpunk enthusiasts and AR developers!
 
-"I would rather be a cyborg than a goddess." - Donna Haraway
-
-⭐ Don't forget to star this repo if you found it awesome! ⭐
